@@ -1,1 +1,5 @@
-print("Hello there! this is damneet on this side of the screen...")
+gender=input("whats ur gender?")
+if gender=="male":
+    print("okay lil bro")
+else:
+    print("wasgud shawty")
